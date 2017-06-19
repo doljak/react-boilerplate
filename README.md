@@ -1,8 +1,6 @@
 Este projeto foi criado com [Create React App](https://github.com/facebookincubator/create-react-app).
 depois feito 'yarn eject',customizado e implantado parte das configurações por [Jefferson de Melo Doljak](https://github.com/doljak) 
 
-Abaixo vc encontrará informações de como instalar e rodar o projeto<br/>
-
 # React boilerplate
 
 [Setup Inicial](#setup-inicial)
