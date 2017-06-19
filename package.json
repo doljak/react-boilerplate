@@ -87,8 +87,8 @@
   },
   "scripts": {
     "start": "npm run build:dev",
-    "build:dev": "webpack --config ./_config.mam/webpack-dev.config.js --progress --color --watch",
-    "build:prod": "webpack --config ./_config.mam/webpack-prod.config.js --optimize-minimize --color",
+    "build:dev": "webpack --config ./_config.webpack/webpack-dev.config.js --progress --color --watch",
+    "build:prod": "webpack --config ./_config.webpack/webpack-prod.config.js --optimize-minimize --color",
     "test": "karma start"
   },
   "eslintConfig": {
