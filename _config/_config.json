@@ -1,10 +1,10 @@
 {
 	"local": {
 		"environment": "local",
-		"ROOT": "/Users/doljak/Sites/cultura/mam/public_html",
-		"projectPath": "/Users/doljak/Sites/cultura/mam/public_html",
-		"ROOT_URL": "http://mam.local",
-		"projectUrl": "http://mam.local",
+		"ROOT": "/Users/doljak/Sites/react-boilerplate/public_html",
+		"projectPath": "/Users/doljak/Sites/react-boilerplate/public_html",
+		"ROOT_URL": "http://react-boilerplate.local",
+		"projectUrl": "http://react-boilerplate.local",
 		"path": "/",
 		"IP": "127.0.0.1",
 		"unix": {
@@ -16,10 +16,10 @@
 	},
 	"production": {
 		"environment": "production",
-		"ROOT": "/var/www/mam/public_html",
-		"projectPath": "/var/www/mam/public_html",
-		"ROOT_URL": "http://mam.tvcultura.com.br",
-		"projectUrl": "http://mam.tvcultura.com.br",
+		"ROOT": "/var/www/react-boilerplate/public_html",
+		"projectPath": "/var/www/react-boilerplate/public_html",
+		"ROOT_URL": "http://react-boilerplate.com.br",
+		"projectUrl": "http://react-boilerplate.com.br",
 		"path": "/",
 		"IP": "172.20.1.211",
 		"unix": {

@@ -26,7 +26,7 @@ Este projeto foi desenvolvido com Webpack, React, Sass.
   você terá a seguinte estrutura
   ```
   react-boilerplate 
-    _config.web.webpack
+    _config.webpack
     _config
     _src
     public_html
@@ -52,11 +52,13 @@ Este projeto foi desenvolvido com Webpack, React, Sass.
       
     - reinicie o apache da sua máquina(Mac: `apachectl restart`)
 
-### 3 - prepare o ambiente MAM
-  dentro da pasta mam:<br/>
+### 3 - prepare o ambiente
+  dentro da pasta react-boilerplate:<br/>
 
   copie os arquivos de configuração do APP<br/>
   `$ cp _config/* .`
+
+  faça os ajustes necessários nos arquivos em relação aos paths em `_config.json` e `_configFront.json`
 
   crie o arquivo .env com o texto "local"<br/>
   `$ touch .env`
