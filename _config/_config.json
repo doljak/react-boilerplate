@@ -1,0 +1,32 @@
+{
+	"local": {
+		"environment": "local",
+		"ROOT": "/Users/doljak/Sites/cultura/mam/public_html",
+		"projectPath": "/Users/doljak/Sites/cultura/mam/public_html",
+		"ROOT_URL": "http://mam.local",
+		"projectUrl": "http://mam.local",
+		"path": "/",
+		"IP": "127.0.0.1",
+		"unix": {
+			"usr": "doljak",
+			"grp": "staff",
+			"phpUser": "_www",
+			"phpGroup": "nobody"
+		}
+	},
+	"production": {
+		"environment": "production",
+		"ROOT": "/var/www/mam/public_html",
+		"projectPath": "/var/www/mam/public_html",
+		"ROOT_URL": "http://mam.tvcultura.com.br",
+		"projectUrl": "http://mam.tvcultura.com.br",
+		"path": "/",
+		"IP": "172.20.1.211",
+		"unix": {
+			"usr": "root",
+			"grp": "root",
+			"phpUser": "root",
+			"phpGroup": "root"
+		}
+	}
+}

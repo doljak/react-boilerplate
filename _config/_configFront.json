@@ -1,0 +1,12 @@
+{
+	"local": {
+		"projectCss":"/_dist/dev/mam.bundle.css",
+		"projectJs":"/_dist/dev/main.bundle.js",
+		"projectImgs":"/_img"
+	},
+	"production": {
+		"projectCss":"/_dist/vendor/mam.min.css",
+		"projectJs":"/_dist/vendor/main.bundle.min.js",
+		"projectImgs":"/_img"
+	}
+}
