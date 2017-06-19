@@ -1,0 +1,7 @@
+.env
+_config.json
+_configFront.json
+public_html/.htaccess
+public_html/_js/*.map
+yarn.lock
+node_modules/

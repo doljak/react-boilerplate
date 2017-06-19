@@ -19,7 +19,7 @@
 	</head> 
 	
 	<body>
-	<section id="mam"></section>	
+	<section id="app"></section>	
 	<script src="<?=$_CONFIG->projectUrl . $_FRONTPATH->projectJs?>"></script>
 		
 	</body>
